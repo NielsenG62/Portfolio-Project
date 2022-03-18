@@ -85,6 +85,23 @@ h2 {
   margin-bottom: 3em;
 }
 
+.btn-primary {
+  background-color: #d49c6b;
+  border-color: #d49c6b;
+  transition: all .3s;
+}
+
+.btn-primary:hover {
+  filter: brightness(80%);
+  background-color: #d49c6b;
+  border-color: #d49c6b;
+}
+
+.row {
+  justify-content: center;
+  margin-bottom: 3em;
+}
+
 .bio img {
   float: right;
   width: 375px;
