@@ -20,6 +20,8 @@ _This website is a basic portfolio for my work. The home page has some informati
 * _Navigate to the top level of this directory_
 * _Open index.html in your browser of choice_
 
+## Link to Project on GitHub Pages
+https://nielseng62.github.io/Portfolio-Project/
 
 ## Known Bugs
 
