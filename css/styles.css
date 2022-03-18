@@ -1,0 +1,44 @@
+/* 
+palette
+#f6fafb base white
+#c1c8c7 light grey
+#5e6668 dark grey
+#252b31 black
+#d49c6b accent orange
+*/
+
+a {
+  color: black;
+  transition: all .3s;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+header {
+  background-color: #c1c8c7;
+  padding: 1em;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+}
+
+header h1 {
+  font-size: 2em;
+}
+
+nav a:hover {
+  color: #d49c6b;
+}
+
+main {
+  background-color: #f6fafb;
+}
+
