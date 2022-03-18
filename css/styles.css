@@ -25,6 +25,12 @@ li {
   list-style-type: none;
 }
 
+footer {
+  text-align: center;
+  background-color: #c1c8c7;
+  padding: .5em;
+}
+
 header {
   background-color: #c1c8c7;
   padding: 1em;
@@ -45,6 +51,7 @@ nav a:hover {
 .container {
   background-color: #f6fafb;
   padding-top: 3em;
+  padding-bottom: 2em;
 }
 
 #profile {
@@ -96,4 +103,8 @@ h2 {
 
 #outside {
   padding-top: 1em;
+}
+
+ol li{
+  list-style-type: decimal;
 }
