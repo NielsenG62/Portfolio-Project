@@ -38,6 +38,7 @@ header {
   justify-content: space-between;
   position: sticky;
   top: 0;
+  z-index: 1;
 }
 
 header h1 {
@@ -107,4 +108,27 @@ h2 {
 
 ol li{
   list-style-type: decimal;
+}
+
+/* styling specific to projects.html */
+
+#projects {
+  text-align: center;
+  padding-top: 1em;
+}
+
+.card {
+  width: 80%;
+  margin: auto;
+}
+
+.GitHubLink {
+  color: blue;
+  text-decoration: underline;
+  transition: all 0s;
+}
+
+.GitHubLink:hover {
+  text-decoration: none;
+  color: blue;
 }
