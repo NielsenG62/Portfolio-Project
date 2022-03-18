@@ -12,7 +12,7 @@
 
 ## Description
 
-_This website is a basic portfolio for my work. The home page has some information about me, while the projects page lists a few of the websites I have built at school._
+_This website is a basic portfolio for my work. The home page has some information about me, while the projects page lists a few of the websites I have built at school. There is a page where you can contact me as well._
 
 ## Setup/Installation Requirements
 

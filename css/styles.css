@@ -7,7 +7,7 @@ palette
 #d49c6b accent orange
 */
 
-main {
+html, main {
   background-color: #252b31;
 }
 
@@ -29,6 +29,7 @@ footer {
   text-align: center;
   background-color: #c1c8c7;
   padding: .5em;
+  clear: both;
 }
 
 header {
@@ -156,3 +157,11 @@ ol li{
 
 /* styling specific to contact.html */
 
+#contact {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.item {
+  align-self: center;
+}
