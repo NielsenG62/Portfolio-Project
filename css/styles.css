@@ -7,6 +7,10 @@ palette
 #d49c6b accent orange
 */
 
+main {
+  background-color: #252b31;
+}
+
 a {
   color: black;
   transition: all .3s;
@@ -38,7 +42,31 @@ nav a:hover {
   color: #d49c6b;
 }
 
-main {
+.container {
   background-color: #f6fafb;
+  padding-top: 3em;
+}
+
+#profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3em;
+}
+
+#profile img {
+  width: 300px;
+  border-radius: 100%;
+  margin-left: 5em;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+#line {
+  border: 3px solid #d49c6b;
+  width: 70%;
+  margin: auto;
 }
 
