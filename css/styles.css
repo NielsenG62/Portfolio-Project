@@ -64,9 +64,36 @@ h2 {
   font-size: 3em;
 }
 
-#line {
+.line {
   border: 3px solid #d49c6b;
   width: 70%;
   margin: auto;
+  margin-bottom: 3em;
 }
 
+#hello {
+  width: 40%;
+  margin: auto;
+  margin-bottom: 3em;
+}
+
+.bio img {
+  float: right;
+  width: 375px;
+}
+
+.bio {
+  margin-right: 3em;
+  margin-left: 3em;
+  clear: both;
+  margin-bottom: 5em;
+}
+
+#climb {
+  float: left;
+  margin-right: 3em;
+}
+
+#outside {
+  padding-top: 1em;
+}
