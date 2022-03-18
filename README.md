@@ -23,7 +23,7 @@ _This website is a basic portfolio for my work. The home page has some informati
 
 ## Known Bugs
 
-* _None_
+* _The orange line after my about me section won't be consistant when switching veiwport widths_
 
 ## License
 
